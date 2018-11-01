@@ -1,5 +1,5 @@
 # garryspot
-A fully functional weed addon, the weed itself is a currency you collect from entities. (CC BY-NC 4.0)[https://creativecommons.org/licenses/by-nc/4.0/legalcode] (Full Code)[https://creativecommons.org/licenses/by-nc/4.0/legalcode]
+A fully functional weed addon, the weed itself is a currency you collect from entities. [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) [Full Code](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 **Workshop Release:** https://steamcommunity.com/sharedfiles/filedetails/?id=1553133866
 
