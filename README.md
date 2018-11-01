@@ -3,6 +3,14 @@ A fully functional weed addon, the weed itself is a currency you collect from en
 
 **Workshop Release:** https://steamcommunity.com/sharedfiles/filedetails/?id=1553133866
 
+**Note you may have to manually put this function in a shared file. This was used for my gamemode to test with admin permissions.**
+```
+local Player = FindMetaTable('Player')
+function Player:IsDev()
+  return self:IsAdmin()
+end
+```
+
 >**Features**
 - A currency system that saves a count to the local server
 - A NPC that will purchase currency from you with cooldowns
